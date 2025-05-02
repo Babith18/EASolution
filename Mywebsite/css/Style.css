@@ -8,14 +8,14 @@ body {
 }
 
 header {
-  background-color: #1a1a1a;
+  background-color: rgb(1, 1, 68);
   color: white;
   padding: 15px 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-}
+ }
 
 header h1 {
   margin: 0;
@@ -26,7 +26,7 @@ nav {
   display: flex;
   gap: 20px;
   align-items: center;
-}
+  }
 
 nav a,
 .dropdown-btn {
@@ -104,7 +104,7 @@ section {
 }
 
 footer {
-  background: #222;
+  background:  #050044;
   color: #fff;
   text-align: center;
   padding: 1rem;
@@ -114,4 +114,8 @@ footer {
 }
 .center-text {
   text-align: center;
+}
+#background {
+  background-color: #050044;
+  padding: 20px;
 }
