@@ -86,8 +86,6 @@ nav a:hover,
   box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
   z-index: 1;
   border-radius: 5px;
-  /* right: 0;
-  left: auto; */
   left: 0; /* Change from 'left: auto' to 'left: 0' */
   right: auto;
 
