@@ -49,6 +49,7 @@ nav a:hover,
 
 .dropdown {
   position: relative;
+  display: inline-block;
 }
 
 .dropdown-content {
@@ -75,6 +76,13 @@ nav a:hover,
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+.dropbtn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 22px;
+  cursor: pointer;
 }
 
 i {
